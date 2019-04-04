@@ -1,5 +1,7 @@
 # msbuild-srm-repro
 
+Filed issue at https://github.com/mono/mono/issues/13861
+
 To see the problem:
 
 ```
