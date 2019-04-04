@@ -3,7 +3,7 @@
 To see the problem:
 
 ```
-$ msbuild msbuild-srm-repro.sln /v:minimal
+$ msbuild msbuild-srm-repro.sln /v:minimal /restore
 Microsoft (R) Build Engine version 16.0.42-preview+g804bde742b for Mono
 Copyright (C) Microsoft Corporation. All rights reserved.
 
